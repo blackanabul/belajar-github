@@ -1,2 +1,3 @@
-# belajar-github
-percobaan pertama menggunakan github
+# Belajar GitHub
+Ini repository pertama saya!
+
